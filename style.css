@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    flex-direction: row;
+  }
+  #parent{
+    background-color: grey;
+    width: 50%;
+   
+  }
+  
+  #inputDiv{
+    background-color: white;
+  width: 50%;
+  margin-top: 300px;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: row;
+  }
+  #ipt{
+    margin-right: 20px;
+    height: 50px;
+    font-size: 30px;
+  
+  }
+  #btn{
+    margin-right: 20px;
+    height: 50px;
+    font-size: 30px;
+   
+  }
+  #innerParent{
+   
+     background-color: grey;
+  }
